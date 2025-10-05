@@ -6,125 +6,71 @@
 O objetivo desta oficina prática é praticar a elaboração de requisitos de troca de informação (EIR), sob a ótica da ISO 19650, utilizando a metodologia estabelecida na ISO 29481-1 (IDM). Além disso, vamos elaborar os EIRs no formato IDS - Information Delivery Specification - padrão aberto definido pela buildingSMART para especificação de requisitos de troca de informação.
 
 ### Dinâmica
-Os participantes serão divididos em **4 grupos** de **4 participantes**. Cada grupo terá que trazer um notebook para poder realizar as atividades. Serão utilizados softwares específicos que estão listados abaixo.
+Os participantes serão divididos em **4 grupos** de **4 participantes**. Cada grupo terá que trazer ao menos **um notebook** para poder realizar as atividades. Serão utilizados softwares específicos que estão listados abaixo.
+
+### Programação
+
+A oficina começará pontualmente as 9:00h até as 12:00h quando haverá um intervalo para almoço, retornando às 14:00h e finalizando as 17:00h.
+
+**1. Apresentação:** (9:00h - 9:30h)
+- 1.1. Objetivo
+- 1.2. Metodologia
+- 1.3. Principais Conceitos
+
+**2. Elaboração do IDM:** (9:30h - 11:00h)
+- 2.1. Conceito de IDM ([ISO 29481-1:2016](https://www.iso.org/standard/60553.html))
+- 2.2. Elaboração do mapa de processos
+- 2.3. Documentação dos processos
+- 2.4. Mapeamento das trocas de informações
+
+**3. Elaboração do EIR:** (11:00h - 12:00h)
+- 3.1. Conceito de LOIN ([ISO 7817-1:2024](https://www.iso.org/standard/82914.html))
+- 3.2. Documentação do EIR
+
+**4. Elaboração do IDS:** (14:00h - 15:30h)
+- 4.1. Conceito de [IDS](https://www.buildingsmart.org/standards/bsi-standards/information-delivery-specification-ids/) (buildingSMART)
+- 4.2. Criação do IDS
+
+**5. Elaboração do modelo de informações com base no IDS:** (15:30h - 17:00h)
+- 5.1. Criação do modelo utilizando o Blender+Bonsai ou qualquer outro software de modelagem da preferência dos participantes
+- 5.2. Verificação da conformidade do modelo com IDS utilizando Blender + Bonsai
+<br>
+
+No final teremos produzidos os seguintes documentos:
+```mermaid
+graph LR
+A[IDM - ISO 28481] --> B[EIR - ISO 7817] --> C[IDS - buildingSMART]
+
+```
+<br>
 
 ### Softwares utilizados
 Serão tilizadfos softwares específicos paraas atividades programadas. Todos são gratuitos, mas alguns precisam ser instalados no computador utilizado. São eles:
 
 - ***Ferramentas online:*** 
-	- Para a elaboração do mapa de processo será utilizado o painel do Miro disponível neste [link](www.openbimacademy.com.br). 
+	- Para a elaboração do mapa de processo será utilizada ferramenta online: [bpmn.io](https://demo.bpmn.io/). 
 	
 	- Para a elaboração do IDS será utilizado a plataforma aberta e gratuita [IDS Converter]([Streamlit](https://idsconverter.streamlit.app/)).
-
+<br>
 - ***Ferramentas desktop:***
-	- Blender + Bonsai : Será utilizado o software Blender com o AddOn Bonsai. As instruções para download e instalação do AddOn estão disponíveis no link: [Como baixar e instalar o Blender e o Bonsai](https://www.youtube.com/watch?v=vzcYPYRprVk&t=13s)
+	- Blender + Bonsai : Será utilizado o software Blender com o AddOn Bonsai. **Será necessãrio já vir com esses softwares instalados no computador**. As instruções para download e instalação do AddOn estão disponíveis no video abaixo:
+	<br>
+	 <iframe width="560" height="315" src="https://www.youtube.com/embed/siUQy31cP80?si=vjA5PMYWlHHHX3h6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	<br>
+	<br>
+> Existe também a possibilidade dos participantes utilizarem outro software de modelagem da sua escolha, mas haverá uma fase adj=ascente de exportação do IFC do modelo.
+
+
+### Templates
+
+Serão utilizados alguns templates para a descrição dos processos e do EIR que precisam ser baixados pelo link abaixo:
+
+- Templates:
+	- [EIR - Requisitos de Troca de Informações](https://github.com/c4rlosdias/Workshop_IDS/blob/templates/EIR.xlsx)
+	- [IDM - Mapa de Processos](https://github.com/c4rlosdias/Workshop_IDS/blob/templates/te.txt)
 
 
 
-- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
-	> To start syncing your workspace, just sign in with Google in the menu.
-
-- The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-	> Before starting to sync files, you must link an account in the **Synchronize** sub-menu.
-
-## Open a file
-
-You can open a file from **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Open from**. Once opened in the workspace, any modification in the file will be automatically synced.
-
-## Save a file
-
-You can save any file of the workspace to **Google Drive**, **Dropbox** or **GitHub** by opening the **Synchronize** sub-menu and clicking **Save on**. Even if a file in the workspace is already synced, you can save it to another location. StackEdit can sync one file with multiple locations and accounts.
-
-## Synchronize a file
-
-Once your file is linked to a synchronized location, StackEdit will periodically synchronize it by downloading/uploading any modification. A merge will be performed if necessary and conflicts will be resolved.
-
-If you just have modified your file and you want to force syncing, click the **Synchronize now** button in the navigation bar.
-
-> **Note:** The **Synchronize now** button is disabled if you have no file to synchronize.
-
-## Manage file synchronization
-
-Since one file can be synced with multiple locations, you can list and manage synchronized locations by clicking **File synchronization** in the **Synchronize** sub-menu. This allows you to list and remove synchronized locations that are linked to your file.
 
 
-# Publication
 
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
-
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-## Update a publication
-
-After publishing, StackEdit keeps your file linked to that publication which makes it easy for you to re-publish it. Once you have modified your file and you want to update your publication, click on the **Publish now** button in the navigation bar.
-
-> **Note:** The **Publish now** button is disabled if your file has not been published yet.
-
-## Manage file publication
-
-Since one file can be published to multiple locations, you can list and manage publish locations by clicking **File publication** in the **Publish** sub-menu. This allows you to list and remove publication locations that are linked to your file.
-
-
-# Markdown extensions
-
-StackEdit extends the standard Markdown syntax by adding extra **Markdown extensions**, providing you with some nice features.
-
-> **ProTip:** You can disable any **Markdown extension** in the **File properties** dialog.
-
-
-## SmartyPants
-
-SmartyPants converts ASCII punctuation characters into "smart" typographic punctuation HTML entities. For example:
-
-|                |ASCII                          |HTML                         |
-|----------------|-------------------------------|-----------------------------|
-|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
-|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
-|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
-
-
-## KaTeX
-
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-
-
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Hello Bob, how are you?
-Bob-->>John: How about you John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
-C --> D
-```
