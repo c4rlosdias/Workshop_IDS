@@ -55,11 +55,12 @@ Serão tilizadfos softwares específicos paraas atividades programadas. Todos s�
 
 - ***Ferramentas desktop:***
 	- Blender + Bonsai : Será utilizado o software Blender com o AddOn Bonsai. **Será necessãrio já vir com esses softwares instalados no computador**. As instruções para download e instalação do AddOn estão disponíveis no video abaixo:
+	<br/>
+
+	[![Assista ao vídeo](https://img.youtube.com/vi/siUQy31cP80/0.jpg)](https://www.youtube.com/watch?v=siUQy31cP80)
+ 	
 	
-	<br>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/siUQy31cP80?si=vjA5PMYWlHHHX3h6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-	<br>
-	<br>
+
 > Existe também a possibilidade dos participantes utilizarem outro software de modelagem da sua escolha, mas haverá uma fase adj=ascente de exportação do IFC do modelo.
 
 
