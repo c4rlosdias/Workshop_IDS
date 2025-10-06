@@ -10,7 +10,7 @@ Os participantes serão divididos em **4 grupos** de **4 participantes**. Cada g
 
 ### Programação
 
-A oficina começará pontualmente as 9:00h até as 12:00h quando haverá um intervalo para almoço, retornando às 14:00h e finalizando as 17:00h.
+A oficina será no dia 17 de out 2025 das 9:00h às 12:00h quando haverá um intervalo para almoço, retornando às 14:00h e finalizando as 17:00h.
 
 **1. Apresentação:** (9:00h - 9:30h)
 - 1.1. Objetivo
@@ -39,7 +39,7 @@ A oficina começará pontualmente as 9:00h até as 12:00h quando haverá um inte
 No final teremos produzidos os seguintes documentos:
 ```mermaid
 graph LR
-A[IDM - ISO 28481] --> B[EIR - ISO 7817] --> C[IDS - buildingSMART]
+A[IDM - ISO 29481] --> B[EIR - ISO 7817] --> C[IDS - buildingSMART]
 
 ```
 <br>
@@ -70,7 +70,7 @@ Serão utilizados alguns templates para a descrição dos processos e do EIR que
 
 - Templates:
 	- [EIR - Requisitos de Troca de Informações](https://github.com/c4rlosdias/Workshop_IDS/blob/main/templates/EIR.xlsx)
-	- [IDM - Mapa de Processos](https://github.com/c4rlosdias/Workshop_IDS/blob/main/templates/te.txt)
+	- [IDM - Mapa de Processos](https://github.com/c4rlosdias/Workshop_IDS/blob/main/templates/IDM.xlsx)
 
 
 
