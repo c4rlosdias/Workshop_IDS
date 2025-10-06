@@ -52,6 +52,7 @@ Serão tilizadfos softwares específicos paraas atividades programadas. Todos s�
 	
 	- Para a elaboração do IDS será utilizado a plataforma aberta e gratuita [IDS Converter]([Streamlit](https://idsconverter.streamlit.app/)).
 <br>
+
 - ***Ferramentas desktop:***
 	- Blender + Bonsai : Será utilizado o software Blender com o AddOn Bonsai. **Será necessãrio já vir com esses softwares instalados no computador**. As instruções para download e instalação do AddOn estão disponíveis no video abaixo:
 	<br>
@@ -66,8 +67,8 @@ Serão tilizadfos softwares específicos paraas atividades programadas. Todos s�
 Serão utilizados alguns templates para a descrição dos processos e do EIR que precisam ser baixados pelo link abaixo:
 
 - Templates:
-	- [EIR - Requisitos de Troca de Informações](https://github.com/c4rlosdias/Workshop_IDS/blob/templates/EIR.xlsx)
-	- [IDM - Mapa de Processos](https://github.com/c4rlosdias/Workshop_IDS/blob/templates/te.txt)
+	- [EIR - Requisitos de Troca de Informações](https://github.com/c4rlosdias/Workshop_IDS/blob/main/templates/EIR.xlsx)
+	- [IDM - Mapa de Processos](https://github.com/c4rlosdias/Workshop_IDS/blob/main/templates/te.txt)
 
 
 
