@@ -31,9 +31,12 @@ A oficina será no dia 17 de out 2025 das 9:00h às 12:00h quando haverá um int
 - 4.1. Conceito de [IDS](https://www.buildingsmart.org/standards/bsi-standards/information-delivery-specification-ids/) (buildingSMART)
 - 4.2. Criação do IDS
 
-**5. Elaboração do modelo de informações com base no IDS:** (15:30h - 17:00h)
+**5. Elaboração do modelo de informações com base no IDS:** (15:30h - 16:30h)
 - 5.1. Criação do modelo utilizando o Blender+Bonsai ou qualquer outro software de modelagem da preferência dos participantes
 - 5.2. Verificação da conformidade do modelo com IDS utilizando Blender + Bonsai
+
+**6. Apresentação dos resultados:** (16:30h - 17:00h)
+- 6.1. Cada grupo terá 5 min para apresentar os documentos desenvolvidos e os compartilhar seus resultados
 <br>
 
 No final teremos produzidos os seguintes documentos:
@@ -72,8 +75,8 @@ Serão utilizados alguns templates para a descrição dos processos e do EIR que
 	- [EIR - Requisitos de Troca de Informações](https://github.com/c4rlosdias/Workshop_IDS/blob/main/templates/EIR.xlsx)
 	- [IDM - Mapa de Processos](https://github.com/c4rlosdias/Workshop_IDS/blob/main/templates/IDM.xlsx)
 
+### Apresentação
 
-
-
+- [Apresentação da oficina](https://github.com/c4rlosdias/Workshop_IDS/blob/main/Oficina.pdf)
 
 
