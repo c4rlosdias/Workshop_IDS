@@ -53,7 +53,7 @@ Serão tilizadfos softwares específicos paraas atividades programadas. Todos s�
 - ***Ferramentas online:*** 
 	- Para a elaboração do mapa de processo será utilizada ferramenta online: [bpmn.io](https://demo.bpmn.io/). 
 	
-	- Para a elaboração do IDS será utilizado a plataforma aberta e gratuita [IDS Converter]([Streamlit](https://idsconverter.streamlit.app/)).
+	- Para a elaboração do IDS será utilizado a plataforma online, aberta e gratuita [IFC Tester](https://ifctester.pages.dev/).
 <br>
 
 - ***Ferramentas desktop:***
@@ -77,6 +77,8 @@ Serão utilizados alguns templates para a descrição dos processos e do EIR que
 
 ### Apresentação
 
-- [Apresentação da oficina](https://github.com/c4rlosdias/Workshop_IDS/blob/main/Oficina.pdf)
+Faça download do material do workshop:
+
+- [Material da oficina](https://github.com/c4rlosdias/Workshop_IDS/blob/main/Oficina.pdf)
 
 
