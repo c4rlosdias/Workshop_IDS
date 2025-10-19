@@ -6,37 +6,31 @@
 O objetivo desta oficina prática é praticar a elaboração de requisitos de troca de informação (EIR), sob a ótica da ISO 19650, utilizando a metodologia estabelecida na ISO 29481-1 (IDM). Além disso, vamos elaborar os EIRs no formato IDS - Information Delivery Specification - padrão aberto definido pela buildingSMART para especificação de requisitos de troca de informação.
 
 ### Dinâmica
-Os participantes serão divididos em **4 grupos** de **4 participantes**. Cada grupo terá que trazer ao menos **um notebook** para poder realizar as atividades. Serão utilizados softwares específicos que estão listados abaixo.
+Os participantes serão divididos em **4 grupos** de até **5 participantes**. Cada grupo terá que trazer ao menos **um notebook** para poder realizar as atividades. Serão utilizados softwares específicos que estão listados abaixo.
 
 ### Programação
 
-A oficina será no dia 17 de out 2025 das 9:00h às 12:00h quando haverá um intervalo para almoço, retornando às 14:00h e finalizando as 17:00h.
+A oficina será no dia XX de nov 2025 das 8:00h às 12:00h.
 
-**1. Apresentação:** (9:00h - 9:30h)
+**1. Apresentação:** 
 - 1.1. Objetivo
 - 1.2. Metodologia
 - 1.3. Principais Conceitos
 
-**2. Elaboração do IDM:** (9:30h - 11:00h)
+**2. Elaboração do IDM:** 
 - 2.1. Conceito de IDM ([ISO 29481-1:2016](https://www.iso.org/standard/60553.html))
 - 2.2. Elaboração do mapa de processos
 - 2.3. Documentação dos processos
 - 2.4. Mapeamento das trocas de informações
 
-**3. Elaboração do EIR:** (11:00h - 12:00h)
+**3. Elaboração do EIR:** 
 - 3.1. Conceito de LOIN ([ISO 7817-1:2024](https://www.iso.org/standard/82914.html))
 - 3.2. Documentação do EIR
 
-**4. Elaboração do IDS:** (14:00h - 15:30h)
+**4. Elaboração do IDS:** 
 - 4.1. Conceito de [IDS](https://www.buildingsmart.org/standards/bsi-standards/information-delivery-specification-ids/) (buildingSMART)
 - 4.2. Criação do IDS
 
-**5. Elaboração do modelo de informações com base no IDS:** (15:30h - 16:30h)
-- 5.1. Criação do modelo utilizando o Blender+Bonsai ou qualquer outro software de modelagem da preferência dos participantes
-- 5.2. Verificação da conformidade do modelo com IDS utilizando Blender + Bonsai
-
-**6. Apresentação dos resultados:** (16:30h - 17:00h)
-- 6.1. Cada grupo terá 5 min para apresentar os documentos desenvolvidos e os compartilhar seus resultados
 <br>
 
 No final teremos produzidos os seguintes documentos:
@@ -55,16 +49,6 @@ Serão tilizadfos softwares específicos paraas atividades programadas. Todos s�
 	
 	- Para a elaboração do IDS será utilizado a plataforma online, aberta e gratuita [IFC Tester](https://ifctester.pages.dev/).
 <br>
-
-- ***Ferramentas desktop:***
-	- Blender + Bonsai : Será utilizado o software Blender com o AddOn Bonsai. **Será necessãrio já vir com esses softwares instalados no computador**. As instruções para download e instalação do AddOn estão disponíveis no video abaixo:
-	<br/>
-
-	[![Assista ao vídeo](https://img.youtube.com/vi/siUQy31cP80/0.jpg)](https://www.youtube.com/watch?v=siUQy31cP80)
- 	
-	
-
-> Existe também a possibilidade dos participantes utilizarem outro software de modelagem da sua escolha, mas haverá uma fase adj=ascente de exportação do IFC do modelo.
 
 
 ### Templates
